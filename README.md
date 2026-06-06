@@ -76,7 +76,7 @@ I care about fast execution, reliable systems, clean interfaces, and tools that 
 ## GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BAKUGOS1&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://komarev.com/ghpvc/?username=BAKUGOS1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p>
