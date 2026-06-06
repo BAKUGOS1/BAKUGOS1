@@ -1,6 +1,8 @@
 # Mohit Kumar
 
-![Mohit Kumar](./assets/profile-banner.png)
+<p align="center">
+  <img src="./assets/profile-banner.png" alt="Mohit Kumar - Full-Stack Developer, Product Builder, AI and QA Automation" />
+</p>
 
 Full-stack developer building SaaS products, AI tools, QA automation systems, and practical business software.
 
