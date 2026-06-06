@@ -2,35 +2,17 @@
 
 ![Mohit Kumar](./assets/profile-banner.png)
 
-I build practical software, automation tools, and product systems that turn real workflows into clean digital experiences.
-
-My current loop is simple: find a painful process, automate the boring parts, ship the useful version, then keep improving it until it feels obvious.
-
-I care about fast execution, reliable systems, clean interfaces, and tools that save people time.
-
-**[GitHub ->](https://github.com/BAKUGOS1)**
+Full-stack developer building SaaS products, AI tools, QA automation systems, and practical business software.
 
 ---
 
-## Now
+## Current Focus
 
-**Building [QaAgent](https://github.com/BAKUGOS1/QaAgent)** - a TypeScript + Playwright QA agent for safe website testing, browser-state capture, local memory, and Markdown/JSON/Excel reports.
-
-**Building [Phere](https://github.com/BAKUGOS1/Phere)** - a smart wedding expense tracker focused on planning, tracking, and making wedding finances easier to manage.
-
-**Exploring AI-assisted development** - agent workflows, testing automation, local-first tooling, and practical product engineering.
-
-**Learning in public** - full-stack development, product design, deployment, debugging, and better engineering habits.
-
----
-
-## Focus
-
-- Full-stack web applications
-- AI-assisted workflows and developer tools
+- SaaS products and business platforms
+- AI-assisted developer workflows
 - QA automation and browser testing
-- Product dashboards, admin panels, and internal tools
-- Reliable backend systems and database-backed apps
+- Product dashboards and admin systems
+- Clean full-stack web applications
 
 ---
 
@@ -38,23 +20,12 @@ I care about fast execution, reliable systems, clean interfaces, and tools that 
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[QaAgent](https://github.com/BAKUGOS1/QaAgent)** | Website testing agent with Playwright, browser-state capture, local memory, and structured reports. | TypeScript, Playwright |
-| **[Phere](https://github.com/BAKUGOS1/Phere)** | Smart wedding expense tracker for practical wedding planning and finance workflows. | JavaScript, Web |
-| **[Hinglishtech](https://github.com/BAKUGOS1/Hinglishtech)** | Python learning/course project built for simple, approachable teaching. | TypeScript, Python learning |
-| **[vedic](https://github.com/BAKUGOS1/vedic)** | Minimalist portfolio blending Vedic philosophy with modern web design. | TypeScript |
-| **[npmsearch](https://github.com/BAKUGOS1/npmsearch)** | Minimal npm registry explorer built for speed and developer clarity. | TypeScript |
-| **[dsbored121](https://github.com/BAKUGOS1/dsbored121)** | Study-room app concept with focus tools, analytics, and gamified progress. | TypeScript, Next.js |
-
----
-
-## Highlights
-
-| Highlight | Detail |
-|---|---|
-| **Product Builder** | I like taking ideas from rough concept to usable shipped product. |
-| **Automation Mindset** | I look for repeatable workflows and turn them into tools people can actually use. |
-| **Full-Stack Execution** | Comfortable moving across UI, APIs, auth, databases, deployment, and debugging. |
-| **Learning Velocity** | I build, test, break, fix, and document fast. |
+| **[QaAgent](https://github.com/BAKUGOS1/QaAgent)** | Website QA agent with browser testing, memory, and reports. | TypeScript, Playwright |
+| **[Phere](https://github.com/BAKUGOS1/Phere)** | Wedding expense tracking and planning product. | JavaScript, Web |
+| **[Hinglishtech](https://github.com/BAKUGOS1/Hinglishtech)** | Beginner-friendly Python learning project. | TypeScript, Python |
+| **[vedic](https://github.com/BAKUGOS1/vedic)** | Minimal portfolio and brand experience. | TypeScript |
+| **[npmsearch](https://github.com/BAKUGOS1/npmsearch)** | Fast npm package discovery interface. | TypeScript |
+| **[dsbored121](https://github.com/BAKUGOS1/dsbored121)** | Study room and productivity app concept. | TypeScript, Next.js |
 
 ---
 
@@ -73,22 +44,18 @@ I care about fast execution, reliable systems, clean interfaces, and tools that 
 
 ---
 
-## GitHub
+<h2 align="center">GitHub</h2>
 
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=BAKUGOS1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BAKUGOS1&hide_border=true&theme=transparent" alt="GitHub streak" />
 </p>
 
 ---
 
-[GitHub](https://github.com/BAKUGOS1)
-
-<!-- Add socials when ready:
-[Portfolio](https://your-website.com) | [LinkedIn](https://www.linkedin.com/in/your-handle) | [X](https://x.com/your-handle) | [Email](mailto:your@email.com)
--->
-
----
+<p align="center">
+  <a href="https://github.com/BAKUGOS1">GitHub</a>
+</p>
