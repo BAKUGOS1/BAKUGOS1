@@ -1,6 +1,6 @@
 # Mohit Kumar
 
-![Mohit Kumar](./assets/profile-banner.svg)
+![Mohit Kumar](./assets/profile-banner.png)
 
 I build practical software, automation tools, and product systems that turn real workflows into clean digital experiences.
 
