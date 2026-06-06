@@ -1,20 +1,139 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="360" fill="#0B0F14"/>
-  <path d="M0 280C155 232 255 322 408 275C556 229 610 132 770 150C911 166 999 255 1200 198V360H0V280Z" fill="#10231E"/>
-  <path d="M0 246C144 215 253 279 395 238C544 195 590 103 756 119C910 134 1013 223 1200 160" stroke="#34D399" stroke-width="3" opacity="0.9"/>
-  <path d="M78 92H1122" stroke="#243241" stroke-width="1"/>
-  <path d="M78 270H1122" stroke="#243241" stroke-width="1"/>
-  <text x="78" y="152" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="800">Mohit Kumar</text>
-  <text x="82" y="206" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="500">Building practical software, automation tools, and reliable product systems.</text>
-  <g transform="translate(82 232)">
-    <rect x="0" y="0" width="146" height="38" rx="19" fill="#111827" stroke="#334155"/>
-    <text x="20" y="25" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">full-stack</text>
-    <rect x="162" y="0" width="124" height="38" rx="19" fill="#111827" stroke="#334155"/>
-    <text x="182" y="25" fill="#BFDBFE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">AI tools</text>
-    <rect x="302" y="0" width="156" height="38" rx="19" fill="#111827" stroke="#334155"/>
-    <text x="322" y="25" fill="#FDE68A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">automation</text>
+<svg width="1600" height="480" viewBox="0 0 1600 480" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mohit Kumar - BAKUGOS1 GitHub profile banner</title>
+  <desc id="desc">Premium dark developer profile banner with maroon accents, identity text, and abstract SaaS, AI, QA automation, and product dashboard visuals.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="480" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07080B"/>
+      <stop offset="0.48" stop-color="#0C0D12"/>
+      <stop offset="1" stop-color="#151016"/>
+    </linearGradient>
+    <radialGradient id="maroonGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1180 205) rotate(146) scale(520 320)">
+      <stop offset="0" stop-color="#8F1D35" stop-opacity="0.54"/>
+      <stop offset="0.42" stop-color="#56101F" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#09090D" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="leftGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(210 128) rotate(22) scale(420 260)">
+      <stop offset="0" stop-color="#641629" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#09090D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#181A21" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#0D0E13" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="lineAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A83A52" stop-opacity="0"/>
+      <stop offset="0.42" stop-color="#B23A55" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#E7B7BF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2B141C"/>
+      <stop offset="1" stop-color="#111218"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <filter id="softShadow" x="-20%" y="-30%" width="150%" height="170%">
+      <feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#000000" flood-opacity="0.42"/>
+    </filter>
+    <filter id="accentGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0.7  0 1 0 0 0.12  0 0 1 0 0.22  0 0 0 0.8 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+    <clipPath id="rightClip">
+      <rect x="860" y="58" width="640" height="364" rx="34"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1600" height="480" fill="url(#bg)"/>
+  <rect width="1600" height="480" fill="url(#grid)"/>
+  <rect width="1600" height="480" fill="url(#maroonGlow)"/>
+  <rect width="1600" height="480" fill="url(#leftGlow)"/>
+
+  <path d="M92 92H554" stroke="url(#lineAccent)" stroke-width="2"/>
+  <path d="M92 388H576" stroke="url(#lineAccent)" stroke-width="2" opacity="0.55"/>
+
+  <g transform="translate(92 118)">
+    <rect x="0" y="0" width="142" height="36" rx="18" fill="url(#chip)" stroke="#6E2737" stroke-opacity="0.74"/>
+    <circle cx="22" cy="18" r="5" fill="#D2526B" filter="url(#accentGlow)"/>
+    <text x="39" y="23" fill="#E7C4CB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.8">BAKUGOS1</text>
   </g>
-  <circle cx="1045" cy="94" r="48" fill="#34D399" opacity="0.13"/>
-  <circle cx="1094" cy="135" r="28" fill="#60A5FA" opacity="0.16"/>
-  <path d="M960 101L1009 150L1090 69" stroke="#34D399" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+
+  <text x="92" y="218" fill="#F7F0F1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="78" font-weight="850">Mohit Kumar</text>
+  <text x="96" y="268" fill="#F0D6DA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="760">Full-Stack Developer &#8226; Product Builder &#8226; AI &amp; QA Automation</text>
+  <text x="96" y="312" fill="#AFA4A8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">Building SaaS, AI tools, and real business products</text>
+
+  <g transform="translate(96 344)">
+    <rect x="0" y="0" width="112" height="32" rx="16" fill="#141217" stroke="#34212A"/>
+    <text x="18" y="21" fill="#D9B7BE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">SaaS</text>
+    <rect x="128" y="0" width="126" height="32" rx="16" fill="#141217" stroke="#34212A"/>
+    <text x="146" y="21" fill="#D9B7BE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">AI Tools</text>
+    <rect x="270" y="0" width="150" height="32" rx="16" fill="#141217" stroke="#34212A"/>
+    <text x="288" y="21" fill="#D9B7BE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">QA Systems</text>
+  </g>
+
+  <g clip-path="url(#rightClip)">
+    <rect x="860" y="58" width="640" height="364" rx="34" fill="#0B0C11" fill-opacity="0.52" stroke="#3A242C"/>
+    <path d="M872 374C1002 302 1098 409 1228 322C1326 256 1370 214 1500 241" stroke="#A83A52" stroke-opacity="0.2" stroke-width="78" stroke-linecap="round"/>
+    <path d="M854 352C988 284 1090 374 1225 295C1338 229 1389 198 1494 210" stroke="#B23A55" stroke-opacity="0.28" stroke-width="3"/>
+
+    <g filter="url(#softShadow)" transform="translate(882 96)">
+      <rect width="318" height="176" rx="18" fill="url(#card)" stroke="#5E2A38"/>
+      <rect x="18" y="17" width="282" height="28" rx="9" fill="#101116" stroke="#2C2027"/>
+      <circle cx="37" cy="31" r="4" fill="#D2526B"/>
+      <circle cx="54" cy="31" r="4" fill="#8D3446"/>
+      <circle cx="71" cy="31" r="4" fill="#46303A"/>
+      <text x="96" y="36" fill="#BFA8AE" font-family="Consolas, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600">product.pipeline.ts</text>
+      <text x="28" y="76" fill="#7C6C72" font-family="Consolas, SFMono-Regular, Menlo, monospace" font-size="15">const build = async () =&gt; {</text>
+      <text x="50" y="104" fill="#E7B7BF" font-family="Consolas, SFMono-Regular, Menlo, monospace" font-size="15">ship(SaaS.product);</text>
+      <text x="50" y="132" fill="#B56578" font-family="Consolas, SFMono-Regular, Menlo, monospace" font-size="15">test.with(QA.agent);</text>
+      <text x="28" y="160" fill="#7C6C72" font-family="Consolas, SFMono-Regular, Menlo, monospace" font-size="15">};</text>
+    </g>
+
+    <g filter="url(#softShadow)" transform="translate(1230 82)">
+      <rect width="220" height="140" rx="18" fill="url(#card)" stroke="#57303A"/>
+      <text x="22" y="35" fill="#F2E8EA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="760">Launch Metrics</text>
+      <text x="22" y="65" fill="#9E8D92" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="650">AI workflow health</text>
+      <rect x="22" y="88" width="176" height="8" rx="4" fill="#282027"/>
+      <rect x="22" y="88" width="138" height="8" rx="4" fill="#B23A55"/>
+      <rect x="22" y="111" width="176" height="8" rx="4" fill="#282027"/>
+      <rect x="22" y="111" width="112" height="8" rx="4" fill="#7A2538"/>
+    </g>
+
+    <g filter="url(#softShadow)" transform="translate(1060 292)">
+      <rect width="410" height="96" rx="18" fill="url(#card)" stroke="#4E2934"/>
+      <g transform="translate(24 24)">
+        <rect width="86" height="48" rx="12" fill="#171016" stroke="#5C2837"/>
+        <text x="21" y="30" fill="#E9CCD1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="760">Plan</text>
+      </g>
+      <path d="M122 48H164" stroke="#7A3342" stroke-width="2"/>
+      <g transform="translate(176 24)">
+        <rect width="86" height="48" rx="12" fill="#171016" stroke="#7E3446"/>
+        <text x="18" y="30" fill="#E9CCD1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="760">Build</text>
+      </g>
+      <path d="M274 48H316" stroke="#7A3342" stroke-width="2"/>
+      <g transform="translate(328 24)">
+        <rect width="58" height="48" rx="12" fill="#24131B" stroke="#B23A55"/>
+        <path d="M18 25L26 33L42 15" stroke="#E7B7BF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+    </g>
+
+    <g filter="url(#softShadow)" transform="translate(956 300)">
+      <rect width="76" height="76" rx="18" fill="#120F14" stroke="#5D2735"/>
+      <path d="M19 51V35C19 25 27 17 37 17H57" stroke="#A83A52" stroke-width="4" stroke-linecap="round"/>
+      <path d="M57 17L48 9M57 17L48 25" stroke="#DFA4AE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="26" cy="54" r="5" fill="#D2526B"/>
+      <circle cx="46" cy="54" r="5" fill="#D2526B" opacity="0.62"/>
+    </g>
+
+    <g transform="translate(1275 246)">
+      <circle cx="0" cy="0" r="4" fill="#D2526B"/>
+      <circle cx="58" cy="-22" r="3" fill="#A83A52"/>
+      <circle cx="116" cy="10" r="3" fill="#E7B7BF"/>
+      <path d="M0 0L58 -22L116 10" stroke="#7E3446" stroke-width="2"/>
+    </g>
+  </g>
+
+  <rect x="860.5" y="58.5" width="639" height="363" rx="33.5" stroke="#FFFFFF" stroke-opacity="0.045"/>
+  <path d="M0 478H1600" stroke="#B23A55" stroke-opacity="0.28" stroke-width="2"/>
 </svg>
