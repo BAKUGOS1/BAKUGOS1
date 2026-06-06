@@ -33,16 +33,18 @@ Full-stack developer building SaaS products, AI tools, QA automation systems, an
 
 ## Tech
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/React-111111?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat&logo=nodedotjs)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat&logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql)
-![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python)
-![Playwright](https://img.shields.io/badge/Playwright-111111?style=flat&logo=playwright)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat&logo=github)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-111111?style=flat&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=nodedotjs" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-111111?style=flat&logo=supabase" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Playwright-111111?style=flat&logo=playwright" alt="Playwright" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github" alt="GitHub" />
+</p>
 
 ---
 
