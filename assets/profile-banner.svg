@@ -1,0 +1,20 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" fill="#0B0F14"/>
+  <path d="M0 280C155 232 255 322 408 275C556 229 610 132 770 150C911 166 999 255 1200 198V360H0V280Z" fill="#10231E"/>
+  <path d="M0 246C144 215 253 279 395 238C544 195 590 103 756 119C910 134 1013 223 1200 160" stroke="#34D399" stroke-width="3" opacity="0.9"/>
+  <path d="M78 92H1122" stroke="#243241" stroke-width="1"/>
+  <path d="M78 270H1122" stroke="#243241" stroke-width="1"/>
+  <text x="78" y="152" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="800">Mohit Kumar</text>
+  <text x="82" y="206" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="500">Building practical software, automation tools, and reliable product systems.</text>
+  <g transform="translate(82 232)">
+    <rect x="0" y="0" width="146" height="38" rx="19" fill="#111827" stroke="#334155"/>
+    <text x="20" y="25" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">full-stack</text>
+    <rect x="162" y="0" width="124" height="38" rx="19" fill="#111827" stroke="#334155"/>
+    <text x="182" y="25" fill="#BFDBFE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">AI tools</text>
+    <rect x="302" y="0" width="156" height="38" rx="19" fill="#111827" stroke="#334155"/>
+    <text x="322" y="25" fill="#FDE68A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">automation</text>
+  </g>
+  <circle cx="1045" cy="94" r="48" fill="#34D399" opacity="0.13"/>
+  <circle cx="1094" cy="135" r="28" fill="#60A5FA" opacity="0.16"/>
+  <path d="M960 101L1009 150L1090 69" stroke="#34D399" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+</svg>
