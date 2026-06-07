@@ -49,18 +49,22 @@ Full-stack developer building SaaS products, AI tools, QA automation systems, an
 
 ---
 
-<h2 align="center">GitHub</h2>
+<h2 align="center">GitHub Activity</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BAKUGOS1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BAKUGOS1&hide_border=true&theme=transparent&v=20260607" alt="GitHub streak" />
+  <a href="https://github.com/BAKUGOS1?tab=achievements">
+    <img src="https://img.shields.io/badge/Achievements-YOLO%20%7C%20Quickdraw%20%7C%20Pull%20Shark-8b2635?style=flat&logo=github" alt="GitHub achievements" />
+  </a>
+  <a href="https://github.com/BAKUGOS1?tab=repositories">
+    <img src="https://img.shields.io/badge/Building-SaaS%20%7C%20AI%20Tools%20%7C%20QA%20Automation-111111?style=flat&logo=github" alt="Building SaaS, AI tools, and QA automation" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/BAKUGOS1">GitHub</a>
+  <a href="https://github.com/BAKUGOS1/QaAgent">QaAgent</a> |
+  <a href="https://github.com/BAKUGOS1/Phere">Phere</a> |
+  <a href="https://github.com/BAKUGOS1/npmsearch">npmsearch</a>
 </p>
