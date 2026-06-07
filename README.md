@@ -25,6 +25,7 @@ Full-stack developer building SaaS products, AI tools, QA automation systems, an
 | **[QaAgent](https://github.com/BAKUGOS1/QaAgent)** | Website QA agent with browser testing, memory, and reports. | TypeScript, Playwright |
 | **[Phere](https://github.com/BAKUGOS1/Phere)** | Wedding expense tracking and planning product. | JavaScript, Web |
 | **[Hinglishtech](https://github.com/BAKUGOS1/Hinglishtech)** | Beginner-friendly Python learning project. | TypeScript, Python |
+| **[Code Momentum 2025](https://github.com/BAKUGOS1/code-momentum-2025)** | Git activity streak analyzer with CLI reports and CI. | Python, GitHub Actions |
 | **[vedic](https://github.com/BAKUGOS1/vedic)** | Minimal portfolio and brand experience. | TypeScript |
 | **[npmsearch](https://github.com/BAKUGOS1/npmsearch)** | Fast npm package discovery interface. | TypeScript |
 | **[dsbored121](https://github.com/BAKUGOS1/dsbored121)** | Study room and productivity app concept. | TypeScript, Next.js |
@@ -55,7 +56,7 @@ Full-stack developer building SaaS products, AI tools, QA automation systems, an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BAKUGOS1&hide_border=true&theme=transparent" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BAKUGOS1&hide_border=true&theme=transparent&v=20260607" alt="GitHub streak" />
 </p>
 
 ---
