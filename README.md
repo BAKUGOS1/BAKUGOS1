@@ -23,7 +23,6 @@ Full-stack developer building SaaS products, AI tools, QA automation systems, an
 | Project | What it does | Stack |
 |---|---|---|
 | **[QaAgent](https://github.com/BAKUGOS1/QaAgent)** | Website QA agent with browser testing, memory, and reports. | TypeScript, Playwright |
-| **[Phere](https://github.com/BAKUGOS1/Phere)** | Wedding expense tracking and planning product. | JavaScript, Web |
 | **[Hinglishtech](https://github.com/BAKUGOS1/Hinglishtech)** | Beginner-friendly Python learning project. | TypeScript, Python |
 | **[Code Momentum 2025](https://github.com/BAKUGOS1/code-momentum-2025)** | Git activity streak analyzer with CLI reports and CI. | Python, GitHub Actions |
 | **[vedic](https://github.com/BAKUGOS1/vedic)** | Minimal portfolio and brand experience. | TypeScript |
@@ -61,10 +60,14 @@ Full-stack developer building SaaS products, AI tools, QA automation systems, an
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BAKUGOS1&hide_border=true&theme=transparent&v=20260608" alt="GitHub streak" />
+</p>
+
 ---
 
 <p align="center">
   <a href="https://github.com/BAKUGOS1/QaAgent">QaAgent</a> |
-  <a href="https://github.com/BAKUGOS1/Phere">Phere</a> |
+  <a href="https://github.com/BAKUGOS1/code-momentum-2025">Code Momentum 2025</a> |
   <a href="https://github.com/BAKUGOS1/npmsearch">npmsearch</a>
 </p>
